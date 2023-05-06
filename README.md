@@ -1,6 +1,8 @@
 # PEPECEO_Inu
 PEPECEO uses the most popular emoji called pepe frog as its symbol, and is committed to promoting community-centered governance, while exploring the vision of bringing the pepe economic system to a new level.
 
+Contract Address:0x4bae28ea8a12641d1ec4d8d6e66dc2b80a93b2a4
+
 Max supply:1,000,000,000,000
 Circulating Supply:900,000,000,000
 Telegram: https://t.me/PEPECEO_inu
